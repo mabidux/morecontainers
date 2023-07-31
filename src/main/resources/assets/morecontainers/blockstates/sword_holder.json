@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morecontainers:block/sword_holder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morecontainers:block/sword_holder"
+    },
+    "facing=south": {
+      "model": "morecontainers:block/sword_holder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morecontainers:block/sword_holder",
+      "y": 270
+    }
+  }
+}

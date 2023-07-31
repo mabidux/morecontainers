@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "morecontainers:iron_chest",
+    "morecontainers:toaster",
+    "morecontainers:oven",
+    "morecontainers:sword_holder",
+    "morecontainers:freezer",
+    "morecontainers:vault"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "morecontainers",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "SIS"
+  ],
+  "result": {
+    "item": "morecontainers:sword_holder"
+  },
+  "show_notification": true
+}

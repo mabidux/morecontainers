@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morecontainers:block/toaster",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morecontainers:block/toaster"
+    },
+    "facing=south": {
+      "model": "morecontainers:block/toaster",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morecontainers:block/toaster",
+      "y": 270
+    }
+  }
+}

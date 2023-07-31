@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morecontainers:block/vault",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morecontainers:block/vault"
+    },
+    "facing=south": {
+      "model": "morecontainers:block/vault",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morecontainers:block/vault",
+      "y": 270
+    }
+  }
+}
